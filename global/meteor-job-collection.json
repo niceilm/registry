@@ -1,0 +1,5 @@
+{
+  "versions": {
+    "1.0.0": "github:niceilm/typed-meteor-job-collection#aafacbf0b20912e9944d9d51165155836040ebd9"
+  }
+}
